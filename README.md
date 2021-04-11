@@ -1,6 +1,6 @@
 # Pizza
 
-Simple web page to practice committing and hosting a wepsite with a GitHub repository.
+Simple HTML web page to practice committing and hosting a wepsite with a GitHub repository.
 
 ## About Me
 
@@ -10,4 +10,4 @@ Simple web page to practice committing and hosting a wepsite with a GitHub repos
 
 # Special Thanks
 
-Special thanks to Thinkful for providing me an opportunity become more familiar with best coding practices.
+Special thanks to Thinkful for providing me an opportunity to become more familiar with best coding practices.
