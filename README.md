@@ -1,10 +1,18 @@
 # Pizza
 
-Simple HTML web page to practice committing and hosting a wepsite with a GitHub repository.
+Simple HTML web page to practice committing and hosting a website with a GitHub repository.
+
+## Technology
+
+***
+
+###Built with:
+* HTML
+* CSS
 
 ## About Me
 
-* [Personal Portfolio](coming soon)
+* [Personal Portfolio](https://stephenengineer.github.io/portfolio/)
 * [GitHub Profile](https://github.com/stephenengineer)
 * [Twitter](https://twitter.com/StephenTchaou)
 
