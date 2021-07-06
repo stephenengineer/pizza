@@ -4,8 +4,6 @@ Simple HTML web page to practice committing and hosting a website with a GitHub 
 
 ## Technology
 
-***
-
 ### Built with:
 * HTML
 * CSS
