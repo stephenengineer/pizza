@@ -6,7 +6,7 @@ Simple HTML web page to practice committing and hosting a website with a GitHub 
 
 ***
 
-###Built with:
+### Built with:
 * HTML
 * CSS
 
